@@ -1,0 +1,2802 @@
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 70 38
+  1 47 87
+                                         
+               Accuracy : 0.6488         
+                 95% CI : (0.585, 0.7088)
+    No Information Rate : 0.5165         
+    P-Value [Acc > NIR] : 2.199e-05      
+                                         
+                  Kappa : 0.295          
+                                         
+ Mcnemar's Test P-Value : 0.3855         
+                                         
+            Sensitivity : 0.5983         
+            Specificity : 0.6960         
+         Pos Pred Value : 0.6481         
+         Neg Pred Value : 0.6493         
+             Prevalence : 0.4835         
+         Detection Rate : 0.2893         
+   Detection Prevalence : 0.4463         
+      Balanced Accuracy : 0.6471         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 1 0.648760330578512"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  32  81
+  1  25 104
+                                         
+               Accuracy : 0.562          
+                 95% CI : (0.497, 0.6255)
+    No Information Rate : 0.7645         
+    P-Value [Acc > NIR] : 1              
+                                         
+                  Kappa : 0.0922         
+                                         
+ Mcnemar's Test P-Value : 9.189e-08      
+                                         
+            Sensitivity : 0.5614         
+            Specificity : 0.5622         
+         Pos Pred Value : 0.2832         
+         Neg Pred Value : 0.8062         
+             Prevalence : 0.2355         
+         Detection Rate : 0.1322         
+   Detection Prevalence : 0.4669         
+      Balanced Accuracy : 0.5618         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 2 0.56198347107438"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 92  8
+  1 98 44
+                                         
+               Accuracy : 0.562          
+                 95% CI : (0.497, 0.6255)
+    No Information Rate : 0.7851         
+    P-Value [Acc > NIR] : 1              
+                                         
+                  Kappa : 0.2029         
+                                         
+ Mcnemar's Test P-Value : <2e-16         
+                                         
+            Sensitivity : 0.4842         
+            Specificity : 0.8462         
+         Pos Pred Value : 0.9200         
+         Neg Pred Value : 0.3099         
+             Prevalence : 0.7851         
+         Detection Rate : 0.3802         
+   Detection Prevalence : 0.4132         
+      Balanced Accuracy : 0.6652         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 3 0.56198347107438"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 56 54
+  1 47 85
+                                          
+               Accuracy : 0.5826          
+                 95% CI : (0.5178, 0.6455)
+    No Information Rate : 0.5744          
+    P-Value [Acc > NIR] : 0.4239          
+                                          
+                  Kappa : 0.1538          
+                                          
+ Mcnemar's Test P-Value : 0.5505          
+                                          
+            Sensitivity : 0.5437          
+            Specificity : 0.6115          
+         Pos Pred Value : 0.5091          
+         Neg Pred Value : 0.6439          
+             Prevalence : 0.4256          
+         Detection Rate : 0.2314          
+   Detection Prevalence : 0.4545          
+      Balanced Accuracy : 0.5776          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 4 0.582644628099174"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  38  76
+  1  19 109
+                                          
+               Accuracy : 0.6074          
+                 95% CI : (0.5428, 0.6694)
+    No Information Rate : 0.7645          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.1901          
+                                          
+ Mcnemar's Test P-Value : 9.166e-09       
+                                          
+            Sensitivity : 0.6667          
+            Specificity : 0.5892          
+         Pos Pred Value : 0.3333          
+         Neg Pred Value : 0.8516          
+             Prevalence : 0.2355          
+         Detection Rate : 0.1570          
+   Detection Prevalence : 0.4711          
+      Balanced Accuracy : 0.6279          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 5 0.607438016528926"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 58 52
+  1 43 89
+                                          
+               Accuracy : 0.6074          
+                 95% CI : (0.5428, 0.6694)
+    No Information Rate : 0.5826          
+    P-Value [Acc > NIR] : 0.2373          
+                                          
+                  Kappa : 0.2029          
+                                          
+ Mcnemar's Test P-Value : 0.4118          
+                                          
+            Sensitivity : 0.5743          
+            Specificity : 0.6312          
+         Pos Pred Value : 0.5273          
+         Neg Pred Value : 0.6742          
+             Prevalence : 0.4174          
+         Detection Rate : 0.2397          
+   Detection Prevalence : 0.4545          
+      Balanced Accuracy : 0.6027          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 6 0.607438016528926"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  53  60
+  1  26 103
+                                          
+               Accuracy : 0.6446          
+                 95% CI : (0.5808, 0.7049)
+    No Information Rate : 0.6736          
+    P-Value [Acc > NIR] : 0.847987        
+                                          
+                  Kappa : 0.2726          
+                                          
+ Mcnemar's Test P-Value : 0.000373        
+                                          
+            Sensitivity : 0.6709          
+            Specificity : 0.6319          
+         Pos Pred Value : 0.4690          
+         Neg Pred Value : 0.7984          
+             Prevalence : 0.3264          
+         Detection Rate : 0.2190          
+   Detection Prevalence : 0.4669          
+      Balanced Accuracy : 0.6514          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 7 0.644628099173554"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 59 50
+  1 44 89
+                                         
+               Accuracy : 0.6116         
+                 95% CI : (0.547, 0.6733)
+    No Information Rate : 0.5744         
+    P-Value [Acc > NIR] : 0.1344         
+                                         
+                  Kappa : 0.2115         
+                                         
+ Mcnemar's Test P-Value : 0.6061         
+                                         
+            Sensitivity : 0.5728         
+            Specificity : 0.6403         
+         Pos Pred Value : 0.5413         
+         Neg Pred Value : 0.6692         
+             Prevalence : 0.4256         
+         Detection Rate : 0.2438         
+   Detection Prevalence : 0.4504         
+      Balanced Accuracy : 0.6066         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 8 0.611570247933884"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 46 64
+  1 34 98
+                                          
+               Accuracy : 0.595           
+                 95% CI : (0.5303, 0.6574)
+    No Information Rate : 0.6694          
+    P-Value [Acc > NIR] : 0.993661        
+                                          
+                  Kappa : 0.1643          
+                                          
+ Mcnemar's Test P-Value : 0.003396        
+                                          
+            Sensitivity : 0.5750          
+            Specificity : 0.6049          
+         Pos Pred Value : 0.4182          
+         Neg Pred Value : 0.7424          
+             Prevalence : 0.3306          
+         Detection Rate : 0.1901          
+   Detection Prevalence : 0.4545          
+      Balanced Accuracy : 0.5900          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 9 0.59504132231405"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  39  75
+  1  19 109
+                                         
+               Accuracy : 0.6116         
+                 95% CI : (0.547, 0.6733)
+    No Information Rate : 0.7603         
+    P-Value [Acc > NIR] : 1              
+                                         
+                  Kappa : 0.199          
+                                         
+ Mcnemar's Test P-Value : 1.405e-08      
+                                         
+            Sensitivity : 0.6724         
+            Specificity : 0.5924         
+         Pos Pred Value : 0.3421         
+         Neg Pred Value : 0.8516         
+             Prevalence : 0.2397         
+         Detection Rate : 0.1612         
+   Detection Prevalence : 0.4711         
+      Balanced Accuracy : 0.6324         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 10 0.611570247933884"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 68 38
+  1 47 89
+                                         
+               Accuracy : 0.6488         
+                 95% CI : (0.585, 0.7088)
+    No Information Rate : 0.5248         
+    P-Value [Acc > NIR] : 6.402e-05      
+                                         
+                  Kappa : 0.2932         
+                                         
+ Mcnemar's Test P-Value : 0.3855         
+                                         
+            Sensitivity : 0.5913         
+            Specificity : 0.7008         
+         Pos Pred Value : 0.6415         
+         Neg Pred Value : 0.6544         
+             Prevalence : 0.4752         
+         Detection Rate : 0.2810         
+   Detection Prevalence : 0.4380         
+      Balanced Accuracy : 0.6460         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 11 0.648760330578512"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  46  68
+  1  28 100
+                                          
+               Accuracy : 0.6033          
+                 95% CI : (0.5386, 0.6654)
+    No Information Rate : 0.6942          
+    P-Value [Acc > NIR] : 0.9989          
+                                          
+                  Kappa : 0.1884          
+                                          
+ Mcnemar's Test P-Value : 6.879e-05       
+                                          
+            Sensitivity : 0.6216          
+            Specificity : 0.5952          
+         Pos Pred Value : 0.4035          
+         Neg Pred Value : 0.7812          
+             Prevalence : 0.3058          
+         Detection Rate : 0.1901          
+   Detection Prevalence : 0.4711          
+      Balanced Accuracy : 0.6084          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 12 0.603305785123967"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  47  68
+  1  25 102
+                                          
+               Accuracy : 0.6157          
+                 95% CI : (0.5512, 0.6773)
+    No Information Rate : 0.7025          
+    P-Value [Acc > NIR] : 0.9985          
+                                          
+                  Kappa : 0.2157          
+                                          
+ Mcnemar's Test P-Value : 1.329e-05       
+                                          
+            Sensitivity : 0.6528          
+            Specificity : 0.6000          
+         Pos Pred Value : 0.4087          
+         Neg Pred Value : 0.8031          
+             Prevalence : 0.2975          
+         Detection Rate : 0.1942          
+   Detection Prevalence : 0.4752          
+      Balanced Accuracy : 0.6264          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 13 0.615702479338843"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 72 30
+  1 73 67
+                                          
+               Accuracy : 0.5744          
+                 95% CI : (0.5094, 0.6375)
+    No Information Rate : 0.5992          
+    P-Value [Acc > NIR] : 0.8034          
+                                          
+                  Kappa : 0.1745          
+                                          
+ Mcnemar's Test P-Value : 3.498e-05       
+                                          
+            Sensitivity : 0.4966          
+            Specificity : 0.6907          
+         Pos Pred Value : 0.7059          
+         Neg Pred Value : 0.4786          
+             Prevalence : 0.5992          
+         Detection Rate : 0.2975          
+   Detection Prevalence : 0.4215          
+      Balanced Accuracy : 0.5936          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 14 0.574380165289256"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 65 42
+  1 51 84
+                                          
+               Accuracy : 0.6157          
+                 95% CI : (0.5512, 0.6773)
+    No Information Rate : 0.5207          
+    P-Value [Acc > NIR] : 0.001811        
+                                          
+                  Kappa : 0.2277          
+                                          
+ Mcnemar's Test P-Value : 0.406787        
+                                          
+            Sensitivity : 0.5603          
+            Specificity : 0.6667          
+         Pos Pred Value : 0.6075          
+         Neg Pred Value : 0.6222          
+             Prevalence : 0.4793          
+         Detection Rate : 0.2686          
+   Detection Prevalence : 0.4421          
+      Balanced Accuracy : 0.6135          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 15 0.615702479338843"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 91 14
+  1 80 57
+                                         
+               Accuracy : 0.6116         
+                 95% CI : (0.547, 0.6733)
+    No Information Rate : 0.7066         
+    P-Value [Acc > NIR] : 0.9994         
+                                         
+                  Kappa : 0.2634         
+                                         
+ Mcnemar's Test P-Value : 2.025e-11      
+                                         
+            Sensitivity : 0.5322         
+            Specificity : 0.8028         
+         Pos Pred Value : 0.8667         
+         Neg Pred Value : 0.4161         
+             Prevalence : 0.7066         
+         Detection Rate : 0.3760         
+   Detection Prevalence : 0.4339         
+      Balanced Accuracy : 0.6675         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 16 0.611570247933884"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  33  83
+  1  11 115
+                                         
+               Accuracy : 0.6116         
+                 95% CI : (0.547, 0.6733)
+    No Information Rate : 0.8182         
+    P-Value [Acc > NIR] : 1              
+                                         
+                  Kappa : 0.2022         
+                                         
+ Mcnemar's Test P-Value : 2.423e-13      
+                                         
+            Sensitivity : 0.7500         
+            Specificity : 0.5808         
+         Pos Pred Value : 0.2845         
+         Neg Pred Value : 0.9127         
+             Prevalence : 0.1818         
+         Detection Rate : 0.1364         
+   Detection Prevalence : 0.4793         
+      Balanced Accuracy : 0.6654         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 17 0.611570247933884"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 54 53
+  1 44 91
+                                          
+               Accuracy : 0.5992          
+                 95% CI : (0.5345, 0.6614)
+    No Information Rate : 0.595           
+    P-Value [Acc > NIR] : 0.4756          
+                                          
+                  Kappa : 0.1803          
+                                          
+ Mcnemar's Test P-Value : 0.4166          
+                                          
+            Sensitivity : 0.5510          
+            Specificity : 0.6319          
+         Pos Pred Value : 0.5047          
+         Neg Pred Value : 0.6741          
+             Prevalence : 0.4050          
+         Detection Rate : 0.2231          
+   Detection Prevalence : 0.4421          
+      Balanced Accuracy : 0.5915          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 18 0.599173553719008"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  41  75
+  1  17 109
+                                          
+               Accuracy : 0.6198          
+                 95% CI : (0.5554, 0.6813)
+    No Information Rate : 0.7603          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.223           
+                                          
+ Mcnemar's Test P-Value : 2.804e-09       
+                                          
+            Sensitivity : 0.7069          
+            Specificity : 0.5924          
+         Pos Pred Value : 0.3534          
+         Neg Pred Value : 0.8651          
+             Prevalence : 0.2397          
+         Detection Rate : 0.1694          
+   Detection Prevalence : 0.4793          
+      Balanced Accuracy : 0.6496          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 19 0.619834710743802"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  42  70
+  1  29 101
+                                          
+               Accuracy : 0.5909          
+                 95% CI : (0.5261, 0.6535)
+    No Information Rate : 0.7066          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.1559          
+                                          
+ Mcnemar's Test P-Value : 5.816e-05       
+                                          
+            Sensitivity : 0.5915          
+            Specificity : 0.5906          
+         Pos Pred Value : 0.3750          
+         Neg Pred Value : 0.7769          
+             Prevalence : 0.2934          
+         Detection Rate : 0.1736          
+   Detection Prevalence : 0.4628          
+      Balanced Accuracy : 0.5911          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 20 0.590909090909091"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 82 22
+  1 66 72
+                                         
+               Accuracy : 0.6364         
+                 95% CI : (0.5723, 0.697)
+    No Information Rate : 0.6116         
+    P-Value [Acc > NIR] : 0.2349         
+                                         
+                  Kappa : 0.2948         
+                                         
+ Mcnemar's Test P-Value : 4.566e-06      
+                                         
+            Sensitivity : 0.5541         
+            Specificity : 0.7660         
+         Pos Pred Value : 0.7885         
+         Neg Pred Value : 0.5217         
+             Prevalence : 0.6116         
+         Detection Rate : 0.3388         
+   Detection Prevalence : 0.4298         
+      Balanced Accuracy : 0.6600         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 21 0.636363636363636"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  33  80
+  1  15 114
+                                          
+               Accuracy : 0.6074          
+                 95% CI : (0.5428, 0.6694)
+    No Information Rate : 0.8017          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.1823          
+                                          
+ Mcnemar's Test P-Value : 5.159e-11       
+                                          
+            Sensitivity : 0.6875          
+            Specificity : 0.5876          
+         Pos Pred Value : 0.2920          
+         Neg Pred Value : 0.8837          
+             Prevalence : 0.1983          
+         Detection Rate : 0.1364          
+   Detection Prevalence : 0.4669          
+      Balanced Accuracy : 0.6376          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 22 0.607438016528926"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  52  55
+  1  33 102
+                                         
+               Accuracy : 0.6364         
+                 95% CI : (0.5723, 0.697)
+    No Information Rate : 0.6488         
+    P-Value [Acc > NIR] : 0.68310        
+                                         
+                  Kappa : 0.2468         
+                                         
+ Mcnemar's Test P-Value : 0.02518        
+                                         
+            Sensitivity : 0.6118         
+            Specificity : 0.6497         
+         Pos Pred Value : 0.4860         
+         Neg Pred Value : 0.7556         
+             Prevalence : 0.3512         
+         Detection Rate : 0.2149         
+   Detection Prevalence : 0.4421         
+      Balanced Accuracy : 0.6307         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 23 0.636363636363636"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  14 102
+  1  15 111
+                                         
+               Accuracy : 0.5165         
+                 95% CI : (0.4516, 0.581)
+    No Information Rate : 0.8802         
+    P-Value [Acc > NIR] : 1              
+                                         
+                  Kappa : 0.0017         
+                                         
+ Mcnemar's Test P-Value : 1.855e-15      
+                                         
+            Sensitivity : 0.48276        
+            Specificity : 0.52113        
+         Pos Pred Value : 0.12069        
+         Neg Pred Value : 0.88095        
+             Prevalence : 0.11983        
+         Detection Rate : 0.05785        
+   Detection Prevalence : 0.47934        
+      Balanced Accuracy : 0.50194        
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 24 0.516528925619835"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  51  58
+  1  30 103
+                                         
+               Accuracy : 0.6364         
+                 95% CI : (0.5723, 0.697)
+    No Information Rate : 0.6653         
+    P-Value [Acc > NIR] : 0.846481       
+                                         
+                  Kappa : 0.2481         
+                                         
+ Mcnemar's Test P-Value : 0.003999       
+                                         
+            Sensitivity : 0.6296         
+            Specificity : 0.6398         
+         Pos Pred Value : 0.4679         
+         Neg Pred Value : 0.7744         
+             Prevalence : 0.3347         
+         Detection Rate : 0.2107         
+   Detection Prevalence : 0.4504         
+      Balanced Accuracy : 0.6347         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 25 0.636363636363636"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 61 48
+  1 37 96
+                                         
+               Accuracy : 0.6488         
+                 95% CI : (0.585, 0.7088)
+    No Information Rate : 0.595          
+    P-Value [Acc > NIR] : 0.04998        
+                                         
+                  Kappa : 0.284          
+                                         
+ Mcnemar's Test P-Value : 0.27808        
+                                         
+            Sensitivity : 0.6224         
+            Specificity : 0.6667         
+         Pos Pred Value : 0.5596         
+         Neg Pred Value : 0.7218         
+             Prevalence : 0.4050         
+         Detection Rate : 0.2521         
+   Detection Prevalence : 0.4504         
+      Balanced Accuracy : 0.6446         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 26 0.648760330578512"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 64 44
+  1 44 90
+                                         
+               Accuracy : 0.6364         
+                 95% CI : (0.5723, 0.697)
+    No Information Rate : 0.5537         
+    P-Value [Acc > NIR] : 0.005557       
+                                         
+                  Kappa : 0.2642         
+                                         
+ Mcnemar's Test P-Value : 1.000000       
+                                         
+            Sensitivity : 0.5926         
+            Specificity : 0.6716         
+         Pos Pred Value : 0.5926         
+         Neg Pred Value : 0.6716         
+             Prevalence : 0.4463         
+         Detection Rate : 0.2645         
+   Detection Prevalence : 0.4463         
+      Balanced Accuracy : 0.6321         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 27 0.636363636363636"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  40  73
+  1  22 107
+                                          
+               Accuracy : 0.6074          
+                 95% CI : (0.5428, 0.6694)
+    No Information Rate : 0.7438          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.1887          
+                                          
+ Mcnemar's Test P-Value : 2.899e-07       
+                                          
+            Sensitivity : 0.6452          
+            Specificity : 0.5944          
+         Pos Pred Value : 0.3540          
+         Neg Pred Value : 0.8295          
+             Prevalence : 0.2562          
+         Detection Rate : 0.1653          
+   Detection Prevalence : 0.4669          
+      Balanced Accuracy : 0.6198          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 28 0.607438016528926"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  41  71
+  1  23 107
+                                         
+               Accuracy : 0.6116         
+                 95% CI : (0.547, 0.6733)
+    No Information Rate : 0.7355         
+    P-Value [Acc > NIR] : 1              
+                                         
+                  Kappa : 0.1949         
+                                         
+ Mcnemar's Test P-Value : 1.249e-06      
+                                         
+            Sensitivity : 0.6406         
+            Specificity : 0.6011         
+         Pos Pred Value : 0.3661         
+         Neg Pred Value : 0.8231         
+             Prevalence : 0.2645         
+         Detection Rate : 0.1694         
+   Detection Prevalence : 0.4628         
+      Balanced Accuracy : 0.6209         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 29 0.611570247933884"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  40  74
+  1  12 116
+                                          
+               Accuracy : 0.6446          
+                 95% CI : (0.5808, 0.7049)
+    No Information Rate : 0.7851          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.265           
+                                          
+ Mcnemar's Test P-Value : 4.775e-11       
+                                          
+            Sensitivity : 0.7692          
+            Specificity : 0.6105          
+         Pos Pred Value : 0.3509          
+         Neg Pred Value : 0.9062          
+             Prevalence : 0.2149          
+         Detection Rate : 0.1653          
+   Detection Prevalence : 0.4711          
+      Balanced Accuracy : 0.6899          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 30 0.644628099173554"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  51  63
+  1  28 100
+                                          
+               Accuracy : 0.624           
+                 95% CI : (0.5597, 0.6852)
+    No Information Rate : 0.6736          
+    P-Value [Acc > NIR] : 0.955430        
+                                          
+                  Kappa : 0.2325          
+                                          
+ Mcnemar's Test P-Value : 0.000365        
+                                          
+            Sensitivity : 0.6456          
+            Specificity : 0.6135          
+         Pos Pred Value : 0.4474          
+         Neg Pred Value : 0.7812          
+             Prevalence : 0.3264          
+         Detection Rate : 0.2107          
+   Detection Prevalence : 0.4711          
+      Balanced Accuracy : 0.6295          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 31 0.62396694214876"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  43  72
+  1  23 104
+                                          
+               Accuracy : 0.6074          
+                 95% CI : (0.5428, 0.6694)
+    No Information Rate : 0.7273          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.1968          
+                                          
+ Mcnemar's Test P-Value : 8.449e-07       
+                                          
+            Sensitivity : 0.6515          
+            Specificity : 0.5909          
+         Pos Pred Value : 0.3739          
+         Neg Pred Value : 0.8189          
+             Prevalence : 0.2727          
+         Detection Rate : 0.1777          
+   Detection Prevalence : 0.4752          
+      Balanced Accuracy : 0.6212          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 32 0.607438016528926"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 66 43
+  1 39 94
+                                          
+               Accuracy : 0.6612          
+                 95% CI : (0.5978, 0.7206)
+    No Information Rate : 0.5661          
+    P-Value [Acc > NIR] : 0.001597        
+                                          
+                  Kappa : 0.3133          
+                                          
+ Mcnemar's Test P-Value : 0.740422        
+                                          
+            Sensitivity : 0.6286          
+            Specificity : 0.6861          
+         Pos Pred Value : 0.6055          
+         Neg Pred Value : 0.7068          
+             Prevalence : 0.4339          
+         Detection Rate : 0.2727          
+   Detection Prevalence : 0.4504          
+      Balanced Accuracy : 0.6574          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 33 0.661157024793388"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 71 35
+  1 80 56
+                                          
+               Accuracy : 0.5248          
+                 95% CI : (0.4598, 0.5891)
+    No Information Rate : 0.624           
+    P-Value [Acc > NIR] : 0.9993          
+                                          
+                  Kappa : 0.0779          
+                                          
+ Mcnemar's Test P-Value : 4.078e-05       
+                                          
+            Sensitivity : 0.4702          
+            Specificity : 0.6154          
+         Pos Pred Value : 0.6698          
+         Neg Pred Value : 0.4118          
+             Prevalence : 0.6240          
+         Detection Rate : 0.2934          
+   Detection Prevalence : 0.4380          
+      Balanced Accuracy : 0.5428          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 34 0.524793388429752"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 51 60
+  1 36 95
+                                          
+               Accuracy : 0.6033          
+                 95% CI : (0.5386, 0.6654)
+    No Information Rate : 0.6405          
+    P-Value [Acc > NIR] : 0.8978          
+                                          
+                  Kappa : 0.1877          
+                                          
+ Mcnemar's Test P-Value : 0.0189          
+                                          
+            Sensitivity : 0.5862          
+            Specificity : 0.6129          
+         Pos Pred Value : 0.4595          
+         Neg Pred Value : 0.7252          
+             Prevalence : 0.3595          
+         Detection Rate : 0.2107          
+   Detection Prevalence : 0.4587          
+      Balanced Accuracy : 0.5996          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 35 0.603305785123967"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 71 35
+  1 66 70
+                                          
+               Accuracy : 0.5826          
+                 95% CI : (0.5178, 0.6455)
+    No Information Rate : 0.5661          
+    P-Value [Acc > NIR] : 0.325793        
+                                          
+                  Kappa : 0.1788          
+                                          
+ Mcnemar's Test P-Value : 0.002835        
+                                          
+            Sensitivity : 0.5182          
+            Specificity : 0.6667          
+         Pos Pred Value : 0.6698          
+         Neg Pred Value : 0.5147          
+             Prevalence : 0.5661          
+         Detection Rate : 0.2934          
+   Detection Prevalence : 0.4380          
+      Balanced Accuracy : 0.5925          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 36 0.582644628099174"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  51  58
+  1  33 100
+                                          
+               Accuracy : 0.624           
+                 95% CI : (0.5597, 0.6852)
+    No Information Rate : 0.6529          
+    P-Value [Acc > NIR] : 0.84439         
+                                          
+                  Kappa : 0.2244          
+                                          
+ Mcnemar's Test P-Value : 0.01187         
+                                          
+            Sensitivity : 0.6071          
+            Specificity : 0.6329          
+         Pos Pred Value : 0.4679          
+         Neg Pred Value : 0.7519          
+             Prevalence : 0.3471          
+         Detection Rate : 0.2107          
+   Detection Prevalence : 0.4504          
+      Balanced Accuracy : 0.6200          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 37 0.62396694214876"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  17 101
+  1   5 119
+                                         
+               Accuracy : 0.562          
+                 95% CI : (0.497, 0.6255)
+    No Information Rate : 0.9091         
+    P-Value [Acc > NIR] : 1              
+                                         
+                  Kappa : 0.1058         
+                                         
+ Mcnemar's Test P-Value : <2e-16         
+                                         
+            Sensitivity : 0.77273        
+            Specificity : 0.54091        
+         Pos Pred Value : 0.14407        
+         Neg Pred Value : 0.95968        
+             Prevalence : 0.09091        
+         Detection Rate : 0.07025        
+   Detection Prevalence : 0.48760        
+      Balanced Accuracy : 0.65682        
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 38 0.56198347107438"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 61 49
+  1 40 92
+                                          
+               Accuracy : 0.6322          
+                 95% CI : (0.5681, 0.6931)
+    No Information Rate : 0.5826          
+    P-Value [Acc > NIR] : 0.06625         
+                                          
+                  Kappa : 0.2532          
+                                          
+ Mcnemar's Test P-Value : 0.39644         
+                                          
+            Sensitivity : 0.6040          
+            Specificity : 0.6525          
+         Pos Pred Value : 0.5545          
+         Neg Pred Value : 0.6970          
+             Prevalence : 0.4174          
+         Detection Rate : 0.2521          
+   Detection Prevalence : 0.4545          
+      Balanced Accuracy : 0.6282          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 39 0.632231404958678"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 51 62
+  1 34 95
+                                          
+               Accuracy : 0.6033          
+                 95% CI : (0.5386, 0.6654)
+    No Information Rate : 0.6488          
+    P-Value [Acc > NIR] : 0.938259        
+                                          
+                  Kappa : 0.1907          
+                                          
+ Mcnemar's Test P-Value : 0.005857        
+                                          
+            Sensitivity : 0.6000          
+            Specificity : 0.6051          
+         Pos Pred Value : 0.4513          
+         Neg Pred Value : 0.7364          
+             Prevalence : 0.3512          
+         Detection Rate : 0.2107          
+   Detection Prevalence : 0.4669          
+      Balanced Accuracy : 0.6025          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 40 0.603305785123967"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  45  66
+  1  24 107
+                                          
+               Accuracy : 0.6281          
+                 95% CI : (0.5639, 0.6892)
+    No Information Rate : 0.7149          
+    P-Value [Acc > NIR] : 0.9986          
+                                          
+                  Kappa : 0.2288          
+                                          
+ Mcnemar's Test P-Value : 1.548e-05       
+                                          
+            Sensitivity : 0.6522          
+            Specificity : 0.6185          
+         Pos Pred Value : 0.4054          
+         Neg Pred Value : 0.8168          
+             Prevalence : 0.2851          
+         Detection Rate : 0.1860          
+   Detection Prevalence : 0.4587          
+      Balanced Accuracy : 0.6353          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 41 0.628099173553719"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  47  67
+  1  23 105
+                                          
+               Accuracy : 0.6281          
+                 95% CI : (0.5639, 0.6892)
+    No Information Rate : 0.7107          
+    P-Value [Acc > NIR] : 0.9978          
+                                          
+                  Kappa : 0.2376          
+                                          
+ Mcnemar's Test P-Value : 5.826e-06       
+                                          
+            Sensitivity : 0.6714          
+            Specificity : 0.6105          
+         Pos Pred Value : 0.4123          
+         Neg Pred Value : 0.8203          
+             Prevalence : 0.2893          
+         Detection Rate : 0.1942          
+   Detection Prevalence : 0.4711          
+      Balanced Accuracy : 0.6409          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 42 0.628099173553719"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 65 41
+  1 44 92
+                                         
+               Accuracy : 0.6488         
+                 95% CI : (0.585, 0.7088)
+    No Information Rate : 0.5496         
+    P-Value [Acc > NIR] : 0.001095       
+                                         
+                  Kappa : 0.2888         
+                                         
+ Mcnemar's Test P-Value : 0.828263       
+                                         
+            Sensitivity : 0.5963         
+            Specificity : 0.6917         
+         Pos Pred Value : 0.6132         
+         Neg Pred Value : 0.6765         
+             Prevalence : 0.4504         
+         Detection Rate : 0.2686         
+   Detection Prevalence : 0.4380         
+      Balanced Accuracy : 0.6440         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 43 0.648760330578512"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 71 38
+  1 46 87
+                                          
+               Accuracy : 0.6529          
+                 95% CI : (0.5893, 0.7127)
+    No Information Rate : 0.5165          
+    P-Value [Acc > NIR] : 1.236e-05       
+                                          
+                  Kappa : 0.3035          
+                                          
+ Mcnemar's Test P-Value : 0.445           
+                                          
+            Sensitivity : 0.6068          
+            Specificity : 0.6960          
+         Pos Pred Value : 0.6514          
+         Neg Pred Value : 0.6541          
+             Prevalence : 0.4835          
+         Detection Rate : 0.2934          
+   Detection Prevalence : 0.4504          
+      Balanced Accuracy : 0.6514          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 44 0.652892561983471"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 59 49
+  1 39 95
+                                         
+               Accuracy : 0.6364         
+                 95% CI : (0.5723, 0.697)
+    No Information Rate : 0.595          
+    P-Value [Acc > NIR] : 0.1063         
+                                         
+                  Kappa : 0.2576         
+                                         
+ Mcnemar's Test P-Value : 0.3374         
+                                         
+            Sensitivity : 0.6020         
+            Specificity : 0.6597         
+         Pos Pred Value : 0.5463         
+         Neg Pred Value : 0.7090         
+             Prevalence : 0.4050         
+         Detection Rate : 0.2438         
+   Detection Prevalence : 0.4463         
+      Balanced Accuracy : 0.6309         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 45 0.636363636363636"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 49 63
+  1 34 96
+                                          
+               Accuracy : 0.5992          
+                 95% CI : (0.5345, 0.6614)
+    No Information Rate : 0.657           
+    P-Value [Acc > NIR] : 0.97417         
+                                          
+                  Kappa : 0.1792          
+                                          
+ Mcnemar's Test P-Value : 0.00447         
+                                          
+            Sensitivity : 0.5904          
+            Specificity : 0.6038          
+         Pos Pred Value : 0.4375          
+         Neg Pred Value : 0.7385          
+             Prevalence : 0.3430          
+         Detection Rate : 0.2025          
+   Detection Prevalence : 0.4628          
+      Balanced Accuracy : 0.5971          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 46 0.599173553719008"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  42  70
+  1  15 115
+                                         
+               Accuracy : 0.6488         
+                 95% CI : (0.585, 0.7088)
+    No Information Rate : 0.7645         
+    P-Value [Acc > NIR] : 1              
+                                         
+                  Kappa : 0.2688         
+                                         
+ Mcnemar's Test P-Value : 4.71e-09       
+                                         
+            Sensitivity : 0.7368         
+            Specificity : 0.6216         
+         Pos Pred Value : 0.3750         
+         Neg Pred Value : 0.8846         
+             Prevalence : 0.2355         
+         Detection Rate : 0.1736         
+   Detection Prevalence : 0.4628         
+      Balanced Accuracy : 0.6792         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 47 0.648760330578512"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 70 39
+  1 43 90
+                                          
+               Accuracy : 0.6612          
+                 95% CI : (0.5978, 0.7206)
+    No Information Rate : 0.5331          
+    P-Value [Acc > NIR] : 3.573e-05       
+                                          
+                  Kappa : 0.3178          
+                                          
+ Mcnemar's Test P-Value : 0.7404          
+                                          
+            Sensitivity : 0.6195          
+            Specificity : 0.6977          
+         Pos Pred Value : 0.6422          
+         Neg Pred Value : 0.6767          
+             Prevalence : 0.4669          
+         Detection Rate : 0.2893          
+   Detection Prevalence : 0.4504          
+      Balanced Accuracy : 0.6586          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 48 0.661157024793388"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  45  69
+  1  23 105
+                                          
+               Accuracy : 0.6198          
+                 95% CI : (0.5554, 0.6813)
+    No Information Rate : 0.719           
+    P-Value [Acc > NIR] : 0.9997          
+                                          
+                  Kappa : 0.2199          
+                                          
+ Mcnemar's Test P-Value : 2.711e-06       
+                                          
+            Sensitivity : 0.6618          
+            Specificity : 0.6034          
+         Pos Pred Value : 0.3947          
+         Neg Pred Value : 0.8203          
+             Prevalence : 0.2810          
+         Detection Rate : 0.1860          
+   Detection Prevalence : 0.4711          
+      Balanced Accuracy : 0.6326          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 49 0.619834710743802"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 64 45
+  1 36 97
+                                         
+               Accuracy : 0.6653         
+                 95% CI : (0.602, 0.7245)
+    No Information Rate : 0.5868         
+    P-Value [Acc > NIR] : 0.007381       
+                                         
+                  Kappa : 0.3189         
+                                         
+ Mcnemar's Test P-Value : 0.374063       
+                                         
+            Sensitivity : 0.6400         
+            Specificity : 0.6831         
+         Pos Pred Value : 0.5872         
+         Neg Pred Value : 0.7293         
+             Prevalence : 0.4132         
+         Detection Rate : 0.2645         
+   Detection Prevalence : 0.4504         
+      Balanced Accuracy : 0.6615         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 50 0.665289256198347"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 55 53
+  1 44 90
+                                          
+               Accuracy : 0.5992          
+                 95% CI : (0.5345, 0.6614)
+    No Information Rate : 0.5909          
+    P-Value [Acc > NIR] : 0.4238          
+                                          
+                  Kappa : 0.1824          
+                                          
+ Mcnemar's Test P-Value : 0.4166          
+                                          
+            Sensitivity : 0.5556          
+            Specificity : 0.6294          
+         Pos Pred Value : 0.5093          
+         Neg Pred Value : 0.6716          
+             Prevalence : 0.4091          
+         Detection Rate : 0.2273          
+   Detection Prevalence : 0.4463          
+      Balanced Accuracy : 0.5925          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 51 0.599173553719008"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  51  62
+  1  29 100
+                                          
+               Accuracy : 0.624           
+                 95% CI : (0.5597, 0.6852)
+    No Information Rate : 0.6694          
+    P-Value [Acc > NIR] : 0.9407758       
+                                          
+                  Kappa : 0.2307          
+                                          
+ Mcnemar's Test P-Value : 0.0007951       
+                                          
+            Sensitivity : 0.6375          
+            Specificity : 0.6173          
+         Pos Pred Value : 0.4513          
+         Neg Pred Value : 0.7752          
+             Prevalence : 0.3306          
+         Detection Rate : 0.2107          
+   Detection Prevalence : 0.4669          
+      Balanced Accuracy : 0.6274          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 52 0.62396694214876"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  33  84
+  1   9 116
+                                          
+               Accuracy : 0.6157          
+                 95% CI : (0.5512, 0.6773)
+    No Information Rate : 0.8264          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.2145          
+                                          
+ Mcnemar's Test P-Value : 1.674e-14       
+                                          
+            Sensitivity : 0.7857          
+            Specificity : 0.5800          
+         Pos Pred Value : 0.2821          
+         Neg Pred Value : 0.9280          
+             Prevalence : 0.1736          
+         Detection Rate : 0.1364          
+   Detection Prevalence : 0.4835          
+      Balanced Accuracy : 0.6829          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 53 0.615702479338843"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 66 41
+  1 41 94
+                                          
+               Accuracy : 0.6612          
+                 95% CI : (0.5978, 0.7206)
+    No Information Rate : 0.5579          
+    P-Value [Acc > NIR] : 0.0006757       
+                                          
+                  Kappa : 0.3131          
+                                          
+ Mcnemar's Test P-Value : 1.0000000       
+                                          
+            Sensitivity : 0.6168          
+            Specificity : 0.6963          
+         Pos Pred Value : 0.6168          
+         Neg Pred Value : 0.6963          
+             Prevalence : 0.4421          
+         Detection Rate : 0.2727          
+   Detection Prevalence : 0.4421          
+      Balanced Accuracy : 0.6566          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 54 0.661157024793388"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  46  64
+  1  23 109
+                                         
+               Accuracy : 0.6405         
+                 95% CI : (0.5765, 0.701)
+    No Information Rate : 0.7149         
+    P-Value [Acc > NIR] : 0.9951         
+                                         
+                  Kappa : 0.2518         
+                                         
+ Mcnemar's Test P-Value : 1.799e-05      
+                                         
+            Sensitivity : 0.6667         
+            Specificity : 0.6301         
+         Pos Pred Value : 0.4182         
+         Neg Pred Value : 0.8258         
+             Prevalence : 0.2851         
+         Detection Rate : 0.1901         
+   Detection Prevalence : 0.4545         
+      Balanced Accuracy : 0.6484         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 55 0.640495867768595"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 66 39
+  1 47 90
+                                          
+               Accuracy : 0.6446          
+                 95% CI : (0.5808, 0.7049)
+    No Information Rate : 0.5331          
+    P-Value [Acc > NIR] : 0.0002877       
+                                          
+                  Kappa : 0.283           
+                                          
+ Mcnemar's Test P-Value : 0.4503513       
+                                          
+            Sensitivity : 0.5841          
+            Specificity : 0.6977          
+         Pos Pred Value : 0.6286          
+         Neg Pred Value : 0.6569          
+             Prevalence : 0.4669          
+         Detection Rate : 0.2727          
+   Detection Prevalence : 0.4339          
+      Balanced Accuracy : 0.6409          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 56 0.644628099173554"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  37  75
+  1  18 112
+                                          
+               Accuracy : 0.6157          
+                 95% CI : (0.5512, 0.6773)
+    No Information Rate : 0.7727          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.1989          
+                                          
+ Mcnemar's Test P-Value : 6.363e-09       
+                                          
+            Sensitivity : 0.6727          
+            Specificity : 0.5989          
+         Pos Pred Value : 0.3304          
+         Neg Pred Value : 0.8615          
+             Prevalence : 0.2273          
+         Detection Rate : 0.1529          
+   Detection Prevalence : 0.4628          
+      Balanced Accuracy : 0.6358          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 57 0.615702479338843"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 70 36
+  1 52 84
+                                         
+               Accuracy : 0.6364         
+                 95% CI : (0.5723, 0.697)
+    No Information Rate : 0.5041         
+    P-Value [Acc > NIR] : 2.303e-05      
+                                         
+                  Kappa : 0.2735         
+                                         
+ Mcnemar's Test P-Value : 0.1098         
+                                         
+            Sensitivity : 0.5738         
+            Specificity : 0.7000         
+         Pos Pred Value : 0.6604         
+         Neg Pred Value : 0.6176         
+             Prevalence : 0.5041         
+         Detection Rate : 0.2893         
+   Detection Prevalence : 0.4380         
+      Balanced Accuracy : 0.6369         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 58 0.636363636363636"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 60 50
+  1 41 91
+                                          
+               Accuracy : 0.624           
+                 95% CI : (0.5597, 0.6852)
+    No Information Rate : 0.5826          
+    P-Value [Acc > NIR] : 0.1074          
+                                          
+                  Kappa : 0.2365          
+                                          
+ Mcnemar's Test P-Value : 0.4017          
+                                          
+            Sensitivity : 0.5941          
+            Specificity : 0.6454          
+         Pos Pred Value : 0.5455          
+         Neg Pred Value : 0.6894          
+             Prevalence : 0.4174          
+         Detection Rate : 0.2479          
+   Detection Prevalence : 0.4545          
+      Balanced Accuracy : 0.6197          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 59 0.62396694214876"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  39  74
+  1  20 109
+                                         
+               Accuracy : 0.6116         
+                 95% CI : (0.547, 0.6733)
+    No Information Rate : 0.7562         
+    P-Value [Acc > NIR] : 1              
+                                         
+                  Kappa : 0.1959         
+                                         
+ Mcnemar's Test P-Value : 4.589e-08      
+                                         
+            Sensitivity : 0.6610         
+            Specificity : 0.5956         
+         Pos Pred Value : 0.3451         
+         Neg Pred Value : 0.8450         
+             Prevalence : 0.2438         
+         Detection Rate : 0.1612         
+   Detection Prevalence : 0.4669         
+      Balanced Accuracy : 0.6283         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 60 0.611570247933884"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 63 45
+  1 51 83
+                                          
+               Accuracy : 0.6033          
+                 95% CI : (0.5386, 0.6654)
+    No Information Rate : 0.5289          
+    P-Value [Acc > NIR] : 0.01185         
+                                          
+                  Kappa : 0.2016          
+                                          
+ Mcnemar's Test P-Value : 0.60983         
+                                          
+            Sensitivity : 0.5526          
+            Specificity : 0.6484          
+         Pos Pred Value : 0.5833          
+         Neg Pred Value : 0.6194          
+             Prevalence : 0.4711          
+         Detection Rate : 0.2603          
+   Detection Prevalence : 0.4463          
+      Balanced Accuracy : 0.6005          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 61 0.603305785123967"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 58 51
+  1 41 92
+                                          
+               Accuracy : 0.6198          
+                 95% CI : (0.5554, 0.6813)
+    No Information Rate : 0.5909          
+    P-Value [Acc > NIR] : 0.1980          
+                                          
+                  Kappa : 0.2257          
+                                          
+ Mcnemar's Test P-Value : 0.3481          
+                                          
+            Sensitivity : 0.5859          
+            Specificity : 0.6434          
+         Pos Pred Value : 0.5321          
+         Neg Pred Value : 0.6917          
+             Prevalence : 0.4091          
+         Detection Rate : 0.2397          
+   Detection Prevalence : 0.4504          
+      Balanced Accuracy : 0.6146          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 62 0.619834710743802"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 71 35
+  1 61 75
+                                          
+               Accuracy : 0.6033          
+                 95% CI : (0.5386, 0.6654)
+    No Information Rate : 0.5455          
+    P-Value [Acc > NIR] : 0.04022         
+                                          
+                  Kappa : 0.2155          
+                                          
+ Mcnemar's Test P-Value : 0.01072         
+                                          
+            Sensitivity : 0.5379          
+            Specificity : 0.6818          
+         Pos Pred Value : 0.6698          
+         Neg Pred Value : 0.5515          
+             Prevalence : 0.5455          
+         Detection Rate : 0.2934          
+   Detection Prevalence : 0.4380          
+      Balanced Accuracy : 0.6098          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 63 0.603305785123967"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  34  79
+  1  20 109
+                                          
+               Accuracy : 0.5909          
+                 95% CI : (0.5261, 0.6535)
+    No Information Rate : 0.7769          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.1507          
+                                          
+ Mcnemar's Test P-Value : 5.569e-09       
+                                          
+            Sensitivity : 0.6296          
+            Specificity : 0.5798          
+         Pos Pred Value : 0.3009          
+         Neg Pred Value : 0.8450          
+             Prevalence : 0.2231          
+         Detection Rate : 0.1405          
+   Detection Prevalence : 0.4669          
+      Balanced Accuracy : 0.6047          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 64 0.590909090909091"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 64 47
+  1 43 88
+                                          
+               Accuracy : 0.6281          
+                 95% CI : (0.5639, 0.6892)
+    No Information Rate : 0.5579          
+    P-Value [Acc > NIR] : 0.01588         
+                                          
+                  Kappa : 0.249           
+                                          
+ Mcnemar's Test P-Value : 0.75183         
+                                          
+            Sensitivity : 0.5981          
+            Specificity : 0.6519          
+         Pos Pred Value : 0.5766          
+         Neg Pred Value : 0.6718          
+             Prevalence : 0.4421          
+         Detection Rate : 0.2645          
+   Detection Prevalence : 0.4587          
+      Balanced Accuracy : 0.6250          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 65 0.628099173553719"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 63 46
+  1 40 93
+                                          
+               Accuracy : 0.6446          
+                 95% CI : (0.5808, 0.7049)
+    No Information Rate : 0.5744          
+    P-Value [Acc > NIR] : 0.01539         
+                                          
+                  Kappa : 0.2786          
+                                          
+ Mcnemar's Test P-Value : 0.58977         
+                                          
+            Sensitivity : 0.6117          
+            Specificity : 0.6691          
+         Pos Pred Value : 0.5780          
+         Neg Pred Value : 0.6992          
+             Prevalence : 0.4256          
+         Detection Rate : 0.2603          
+   Detection Prevalence : 0.4504          
+      Balanced Accuracy : 0.6404          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 66 0.644628099173554"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  60  49
+  1  20 113
+                                          
+               Accuracy : 0.7149          
+                 95% CI : (0.6535, 0.7709)
+    No Information Rate : 0.6694          
+    P-Value [Acc > NIR] : 0.0743823       
+                                          
+                  Kappa : 0.4099          
+                                          
+ Mcnemar's Test P-Value : 0.0007495       
+                                          
+            Sensitivity : 0.7500          
+            Specificity : 0.6975          
+         Pos Pred Value : 0.5505          
+         Neg Pred Value : 0.8496          
+             Prevalence : 0.3306          
+         Detection Rate : 0.2479          
+   Detection Prevalence : 0.4504          
+      Balanced Accuracy : 0.7238          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 67 0.714876033057851"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  22  92
+  1   9 119
+                                          
+               Accuracy : 0.5826          
+                 95% CI : (0.5178, 0.6455)
+    No Information Rate : 0.8719          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.1278          
+                                          
+ Mcnemar's Test P-Value : 3.37e-16        
+                                          
+            Sensitivity : 0.70968         
+            Specificity : 0.56398         
+         Pos Pred Value : 0.19298         
+         Neg Pred Value : 0.92969         
+             Prevalence : 0.12810         
+         Detection Rate : 0.09091         
+   Detection Prevalence : 0.47107         
+      Balanced Accuracy : 0.63683         
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 68 0.582644628099174"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  52  60
+  1  29 101
+                                          
+               Accuracy : 0.6322          
+                 95% CI : (0.5681, 0.6931)
+    No Information Rate : 0.6653          
+    P-Value [Acc > NIR] : 0.876082        
+                                          
+                  Kappa : 0.2459          
+                                          
+ Mcnemar's Test P-Value : 0.001473        
+                                          
+            Sensitivity : 0.6420          
+            Specificity : 0.6273          
+         Pos Pred Value : 0.4643          
+         Neg Pred Value : 0.7769          
+             Prevalence : 0.3347          
+         Detection Rate : 0.2149          
+   Detection Prevalence : 0.4628          
+      Balanced Accuracy : 0.6347          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 69 0.632231404958678"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  52  57
+  1  33 100
+                                          
+               Accuracy : 0.6281          
+                 95% CI : (0.5639, 0.6892)
+    No Information Rate : 0.6488          
+    P-Value [Acc > NIR] : 0.77143         
+                                          
+                  Kappa : 0.2336          
+                                          
+ Mcnemar's Test P-Value : 0.01533         
+                                          
+            Sensitivity : 0.6118          
+            Specificity : 0.6369          
+         Pos Pred Value : 0.4771          
+         Neg Pred Value : 0.7519          
+             Prevalence : 0.3512          
+         Detection Rate : 0.2149          
+   Detection Prevalence : 0.4504          
+      Balanced Accuracy : 0.6244          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 70 0.628099173553719"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  34  79
+  1  16 113
+                                          
+               Accuracy : 0.6074          
+                 95% CI : (0.5428, 0.6694)
+    No Information Rate : 0.7934          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.1832          
+                                          
+ Mcnemar's Test P-Value : 2.004e-10       
+                                          
+            Sensitivity : 0.6800          
+            Specificity : 0.5885          
+         Pos Pred Value : 0.3009          
+         Neg Pred Value : 0.8760          
+             Prevalence : 0.2066          
+         Detection Rate : 0.1405          
+   Detection Prevalence : 0.4669          
+      Balanced Accuracy : 0.6343          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 71 0.607438016528926"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 59 50
+  1 44 89
+                                         
+               Accuracy : 0.6116         
+                 95% CI : (0.547, 0.6733)
+    No Information Rate : 0.5744         
+    P-Value [Acc > NIR] : 0.1344         
+                                         
+                  Kappa : 0.2115         
+                                         
+ Mcnemar's Test P-Value : 0.6061         
+                                         
+            Sensitivity : 0.5728         
+            Specificity : 0.6403         
+         Pos Pred Value : 0.5413         
+         Neg Pred Value : 0.6692         
+             Prevalence : 0.4256         
+         Detection Rate : 0.2438         
+   Detection Prevalence : 0.4504         
+      Balanced Accuracy : 0.6066         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 72 0.611570247933884"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 83 26
+  1 60 73
+                                          
+               Accuracy : 0.6446          
+                 95% CI : (0.5808, 0.7049)
+    No Information Rate : 0.5909          
+    P-Value [Acc > NIR] : 0.050289        
+                                          
+                  Kappa : 0.3018          
+                                          
+ Mcnemar's Test P-Value : 0.000373        
+                                          
+            Sensitivity : 0.5804          
+            Specificity : 0.7374          
+         Pos Pred Value : 0.7615          
+         Neg Pred Value : 0.5489          
+             Prevalence : 0.5909          
+         Detection Rate : 0.3430          
+   Detection Prevalence : 0.4504          
+      Balanced Accuracy : 0.6589          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 73 0.644628099173554"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 57 54
+  1 34 97
+                                         
+               Accuracy : 0.6364         
+                 95% CI : (0.5723, 0.697)
+    No Information Rate : 0.624          
+    P-Value [Acc > NIR] : 0.37192        
+                                         
+                  Kappa : 0.2575         
+                                         
+ Mcnemar's Test P-Value : 0.04283        
+                                         
+            Sensitivity : 0.6264         
+            Specificity : 0.6424         
+         Pos Pred Value : 0.5135         
+         Neg Pred Value : 0.7405         
+             Prevalence : 0.3760         
+         Detection Rate : 0.2355         
+   Detection Prevalence : 0.4587         
+      Balanced Accuracy : 0.6344         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 74 0.636363636363636"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 77 31
+  1 58 76
+                                          
+               Accuracy : 0.6322          
+                 95% CI : (0.5681, 0.6931)
+    No Information Rate : 0.5579          
+    P-Value [Acc > NIR] : 0.011335        
+                                          
+                  Kappa : 0.2735          
+                                          
+ Mcnemar's Test P-Value : 0.005851        
+                                          
+            Sensitivity : 0.5704          
+            Specificity : 0.7103          
+         Pos Pred Value : 0.7130          
+         Neg Pred Value : 0.5672          
+             Prevalence : 0.5579          
+         Detection Rate : 0.3182          
+   Detection Prevalence : 0.4463          
+      Balanced Accuracy : 0.6403          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 75 0.632231404958678"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  48  64
+  1  25 105
+                                          
+               Accuracy : 0.6322          
+                 95% CI : (0.5681, 0.6931)
+    No Information Rate : 0.6983          
+    P-Value [Acc > NIR] : 0.9886          
+                                          
+                  Kappa : 0.2421          
+                                          
+ Mcnemar's Test P-Value : 5.626e-05       
+                                          
+            Sensitivity : 0.6575          
+            Specificity : 0.6213          
+         Pos Pred Value : 0.4286          
+         Neg Pred Value : 0.8077          
+             Prevalence : 0.3017          
+         Detection Rate : 0.1983          
+   Detection Prevalence : 0.4628          
+      Balanced Accuracy : 0.6394          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 76 0.632231404958678"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  53  59
+  1  29 101
+                                         
+               Accuracy : 0.6364         
+                 95% CI : (0.5723, 0.697)
+    No Information Rate : 0.6612         
+    P-Value [Acc > NIR] : 0.811754       
+                                         
+                  Kappa : 0.2549         
+                                         
+ Mcnemar's Test P-Value : 0.001992       
+                                         
+            Sensitivity : 0.6463         
+            Specificity : 0.6312         
+         Pos Pred Value : 0.4732         
+         Neg Pred Value : 0.7769         
+             Prevalence : 0.3388         
+         Detection Rate : 0.2190         
+   Detection Prevalence : 0.4628         
+      Balanced Accuracy : 0.6388         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 77 0.636363636363636"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 58 50
+  1 49 85
+                                          
+               Accuracy : 0.5909          
+                 95% CI : (0.5261, 0.6535)
+    No Information Rate : 0.5579          
+    P-Value [Acc > NIR] : 0.1659          
+                                          
+                  Kappa : 0.1715          
+                                          
+ Mcnemar's Test P-Value : 1.0000          
+                                          
+            Sensitivity : 0.5421          
+            Specificity : 0.6296          
+         Pos Pred Value : 0.5370          
+         Neg Pred Value : 0.6343          
+             Prevalence : 0.4421          
+         Detection Rate : 0.2397          
+   Detection Prevalence : 0.4463          
+      Balanced Accuracy : 0.5858          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 78 0.590909090909091"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  53  58
+  1  31 100
+                                          
+               Accuracy : 0.6322          
+                 95% CI : (0.5681, 0.6931)
+    No Information Rate : 0.6529          
+    P-Value [Acc > NIR] : 0.772069        
+                                          
+                  Kappa : 0.2454          
+                                          
+ Mcnemar's Test P-Value : 0.005851        
+                                          
+            Sensitivity : 0.6310          
+            Specificity : 0.6329          
+         Pos Pred Value : 0.4775          
+         Neg Pred Value : 0.7634          
+             Prevalence : 0.3471          
+         Detection Rate : 0.2190          
+   Detection Prevalence : 0.4587          
+      Balanced Accuracy : 0.6319          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 79 0.632231404958678"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 62 45
+  1 44 91
+                                          
+               Accuracy : 0.6322          
+                 95% CI : (0.5681, 0.6931)
+    No Information Rate : 0.562           
+    P-Value [Acc > NIR] : 0.01577         
+                                          
+                  Kappa : 0.2538          
+                                          
+ Mcnemar's Test P-Value : 1.00000         
+                                          
+            Sensitivity : 0.5849          
+            Specificity : 0.6691          
+         Pos Pred Value : 0.5794          
+         Neg Pred Value : 0.6741          
+             Prevalence : 0.4380          
+         Detection Rate : 0.2562          
+   Detection Prevalence : 0.4421          
+      Balanced Accuracy : 0.6270          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 80 0.632231404958678"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  40  75
+  1  24 103
+                                          
+               Accuracy : 0.5909          
+                 95% CI : (0.5261, 0.6535)
+    No Information Rate : 0.7355          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.1622          
+                                          
+ Mcnemar's Test P-Value : 5.029e-07       
+                                          
+            Sensitivity : 0.6250          
+            Specificity : 0.5787          
+         Pos Pred Value : 0.3478          
+         Neg Pred Value : 0.8110          
+             Prevalence : 0.2645          
+         Detection Rate : 0.1653          
+   Detection Prevalence : 0.4752          
+      Balanced Accuracy : 0.6018          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 81 0.590909090909091"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  34  78
+  1  18 112
+                                          
+               Accuracy : 0.6033          
+                 95% CI : (0.5386, 0.6654)
+    No Information Rate : 0.7851          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.1715          
+                                          
+ Mcnemar's Test P-Value : 1.726e-09       
+                                          
+            Sensitivity : 0.6538          
+            Specificity : 0.5895          
+         Pos Pred Value : 0.3036          
+         Neg Pred Value : 0.8615          
+             Prevalence : 0.2149          
+         Detection Rate : 0.1405          
+   Detection Prevalence : 0.4628          
+      Balanced Accuracy : 0.6217          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 82 0.603305785123967"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  47  66
+  1  26 103
+                                          
+               Accuracy : 0.6198          
+                 95% CI : (0.5554, 0.6813)
+    No Information Rate : 0.6983          
+    P-Value [Acc > NIR] : 0.9963          
+                                          
+                  Kappa : 0.2192          
+                                          
+ Mcnemar's Test P-Value : 4.782e-05       
+                                          
+            Sensitivity : 0.6438          
+            Specificity : 0.6095          
+         Pos Pred Value : 0.4159          
+         Neg Pred Value : 0.7984          
+             Prevalence : 0.3017          
+         Detection Rate : 0.1942          
+   Detection Prevalence : 0.4669          
+      Balanced Accuracy : 0.6267          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 83 0.619834710743802"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  50  63
+  1  25 104
+                                         
+               Accuracy : 0.6364         
+                 95% CI : (0.5723, 0.697)
+    No Information Rate : 0.6901         
+    P-Value [Acc > NIR] : 0.9683         
+                                         
+                  Kappa : 0.254          
+                                         
+ Mcnemar's Test P-Value : 8.006e-05      
+                                         
+            Sensitivity : 0.6667         
+            Specificity : 0.6228         
+         Pos Pred Value : 0.4425         
+         Neg Pred Value : 0.8062         
+             Prevalence : 0.3099         
+         Detection Rate : 0.2066         
+   Detection Prevalence : 0.4669         
+      Balanced Accuracy : 0.6447         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 84 0.636363636363636"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  51  60
+  1  25 106
+                                         
+               Accuracy : 0.6488         
+                 95% CI : (0.585, 0.7088)
+    No Information Rate : 0.686          
+    P-Value [Acc > NIR] : 0.9049165      
+                                         
+                  Kappa : 0.2752         
+                                         
+ Mcnemar's Test P-Value : 0.0002262      
+                                         
+            Sensitivity : 0.6711         
+            Specificity : 0.6386         
+         Pos Pred Value : 0.4595         
+         Neg Pred Value : 0.8092         
+             Prevalence : 0.3140         
+         Detection Rate : 0.2107         
+   Detection Prevalence : 0.4587         
+      Balanced Accuracy : 0.6548         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 85 0.648760330578512"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  43  66
+  1  29 104
+                                          
+               Accuracy : 0.6074          
+                 95% CI : (0.5428, 0.6694)
+    No Information Rate : 0.7025          
+    P-Value [Acc > NIR] : 0.9993740       
+                                          
+                  Kappa : 0.182           
+                                          
+ Mcnemar's Test P-Value : 0.0002212       
+                                          
+            Sensitivity : 0.5972          
+            Specificity : 0.6118          
+         Pos Pred Value : 0.3945          
+         Neg Pred Value : 0.7820          
+             Prevalence : 0.2975          
+         Detection Rate : 0.1777          
+   Detection Prevalence : 0.4504          
+      Balanced Accuracy : 0.6045          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 86 0.607438016528926"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 68 42
+  1 45 87
+                                         
+               Accuracy : 0.6405         
+                 95% CI : (0.5765, 0.701)
+    No Information Rate : 0.5331         
+    P-Value [Acc > NIR] : 0.0004643      
+                                         
+                  Kappa : 0.2766         
+                                         
+ Mcnemar's Test P-Value : 0.8302176      
+                                         
+            Sensitivity : 0.6018         
+            Specificity : 0.6744         
+         Pos Pred Value : 0.6182         
+         Neg Pred Value : 0.6591         
+             Prevalence : 0.4669         
+         Detection Rate : 0.2810         
+   Detection Prevalence : 0.4545         
+      Balanced Accuracy : 0.6381         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 87 0.640495867768595"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 87 16
+  1 85 54
+                                          
+               Accuracy : 0.5826          
+                 95% CI : (0.5178, 0.6455)
+    No Information Rate : 0.7107          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.2145          
+                                          
+ Mcnemar's Test P-Value : 1.322e-11       
+                                          
+            Sensitivity : 0.5058          
+            Specificity : 0.7714          
+         Pos Pred Value : 0.8447          
+         Neg Pred Value : 0.3885          
+             Prevalence : 0.7107          
+         Detection Rate : 0.3595          
+   Detection Prevalence : 0.4256          
+      Balanced Accuracy : 0.6386          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 88 0.582644628099174"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 61 44
+  1 41 96
+                                         
+               Accuracy : 0.6488         
+                 95% CI : (0.585, 0.7088)
+    No Information Rate : 0.5785         
+    P-Value [Acc > NIR] : 0.01526        
+                                         
+                  Kappa : 0.2826         
+                                         
+ Mcnemar's Test P-Value : 0.82826        
+                                         
+            Sensitivity : 0.5980         
+            Specificity : 0.6857         
+         Pos Pred Value : 0.5810         
+         Neg Pred Value : 0.7007         
+             Prevalence : 0.4215         
+         Detection Rate : 0.2521         
+   Detection Prevalence : 0.4339         
+      Balanced Accuracy : 0.6419         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 89 0.648760330578512"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 58 48
+  1 46 90
+                                         
+               Accuracy : 0.6116         
+                 95% CI : (0.547, 0.6733)
+    No Information Rate : 0.5702         
+    P-Value [Acc > NIR] : 0.1083         
+                                         
+                  Kappa : 0.2094         
+                                         
+ Mcnemar's Test P-Value : 0.9179         
+                                         
+            Sensitivity : 0.5577         
+            Specificity : 0.6522         
+         Pos Pred Value : 0.5472         
+         Neg Pred Value : 0.6618         
+             Prevalence : 0.4298         
+         Detection Rate : 0.2397         
+   Detection Prevalence : 0.4380         
+      Balanced Accuracy : 0.6049         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 90 0.611570247933884"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  27  85
+  1  18 112
+                                          
+               Accuracy : 0.5744          
+                 95% CI : (0.5094, 0.6375)
+    No Information Rate : 0.814           
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.107           
+                                          
+ Mcnemar's Test P-Value : 7.864e-11       
+                                          
+            Sensitivity : 0.6000          
+            Specificity : 0.5685          
+         Pos Pred Value : 0.2411          
+         Neg Pred Value : 0.8615          
+             Prevalence : 0.1860          
+         Detection Rate : 0.1116          
+   Detection Prevalence : 0.4628          
+      Balanced Accuracy : 0.5843          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 91 0.574380165289256"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 68 38
+  1 44 92
+                                          
+               Accuracy : 0.6612          
+                 95% CI : (0.5978, 0.7206)
+    No Information Rate : 0.5372          
+    P-Value [Acc > NIR] : 6.056e-05       
+                                          
+                  Kappa : 0.316           
+                                          
+ Mcnemar's Test P-Value : 0.5808          
+                                          
+            Sensitivity : 0.6071          
+            Specificity : 0.7077          
+         Pos Pred Value : 0.6415          
+         Neg Pred Value : 0.6765          
+             Prevalence : 0.4628          
+         Detection Rate : 0.2810          
+   Detection Prevalence : 0.4380          
+      Balanced Accuracy : 0.6574          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 92 0.661157024793388"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 66 40
+  1 50 86
+                                          
+               Accuracy : 0.6281          
+                 95% CI : (0.5639, 0.6892)
+    No Information Rate : 0.5207          
+    P-Value [Acc > NIR] : 0.0004811       
+                                          
+                  Kappa : 0.2524          
+                                          
+ Mcnemar's Test P-Value : 0.3427817       
+                                          
+            Sensitivity : 0.5690          
+            Specificity : 0.6825          
+         Pos Pred Value : 0.6226          
+         Neg Pred Value : 0.6324          
+             Prevalence : 0.4793          
+         Detection Rate : 0.2727          
+   Detection Prevalence : 0.4380          
+      Balanced Accuracy : 0.6258          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 93 0.628099173553719"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  46  67
+  1  19 110
+                                          
+               Accuracy : 0.6446          
+                 95% CI : (0.5808, 0.7049)
+    No Information Rate : 0.7314          
+    P-Value [Acc > NIR] : 0.9988          
+                                          
+                  Kappa : 0.2668          
+                                          
+ Mcnemar's Test P-Value : 4.017e-07       
+                                          
+            Sensitivity : 0.7077          
+            Specificity : 0.6215          
+         Pos Pred Value : 0.4071          
+         Neg Pred Value : 0.8527          
+             Prevalence : 0.2686          
+         Detection Rate : 0.1901          
+   Detection Prevalence : 0.4669          
+      Balanced Accuracy : 0.6646          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 94 0.644628099173554"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 52 59
+  1 39 92
+                                          
+               Accuracy : 0.595           
+                 95% CI : (0.5303, 0.6574)
+    No Information Rate : 0.624           
+    P-Value [Acc > NIR] : 0.84023         
+                                          
+                  Kappa : 0.1731          
+                                          
+ Mcnemar's Test P-Value : 0.05495         
+                                          
+            Sensitivity : 0.5714          
+            Specificity : 0.6093          
+         Pos Pred Value : 0.4685          
+         Neg Pred Value : 0.7023          
+             Prevalence : 0.3760          
+         Detection Rate : 0.2149          
+   Detection Prevalence : 0.4587          
+      Balanced Accuracy : 0.5904          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 95 0.59504132231405"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  38  74
+  1  21 109
+                                          
+               Accuracy : 0.6074          
+                 95% CI : (0.5428, 0.6694)
+    No Information Rate : 0.7562          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.1838          
+                                          
+ Mcnemar's Test P-Value : 9.55e-08        
+                                          
+            Sensitivity : 0.6441          
+            Specificity : 0.5956          
+         Pos Pred Value : 0.3393          
+         Neg Pred Value : 0.8385          
+             Prevalence : 0.2438          
+         Detection Rate : 0.1570          
+   Detection Prevalence : 0.4628          
+      Balanced Accuracy : 0.6198          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 96 0.607438016528926"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 72 40
+  1 56 74
+                                          
+               Accuracy : 0.6033          
+                 95% CI : (0.5386, 0.6654)
+    No Information Rate : 0.5289          
+    P-Value [Acc > NIR] : 0.01185         
+                                          
+                  Kappa : 0.21            
+                                          
+ Mcnemar's Test P-Value : 0.12579         
+                                          
+            Sensitivity : 0.5625          
+            Specificity : 0.6491          
+         Pos Pred Value : 0.6429          
+         Neg Pred Value : 0.5692          
+             Prevalence : 0.5289          
+         Detection Rate : 0.2975          
+   Detection Prevalence : 0.4628          
+      Balanced Accuracy : 0.6058          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 97 0.603305785123967"
+Confusion Matrix and Statistics
+
+   model_knn
+      0   1
+  0  42  72
+  1  19 109
+                                          
+               Accuracy : 0.624           
+                 95% CI : (0.5597, 0.6852)
+    No Information Rate : 0.7479          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.2257          
+                                          
+ Mcnemar's Test P-Value : 5.006e-08       
+                                          
+            Sensitivity : 0.6885          
+            Specificity : 0.6022          
+         Pos Pred Value : 0.3684          
+         Neg Pred Value : 0.8516          
+             Prevalence : 0.2521          
+         Detection Rate : 0.1736          
+   Detection Prevalence : 0.4711          
+      Balanced Accuracy : 0.6454          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 98 0.62396694214876"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 58 54
+  1 40 90
+                                         
+               Accuracy : 0.6116         
+                 95% CI : (0.547, 0.6733)
+    No Information Rate : 0.595          
+    P-Value [Acc > NIR] : 0.3246         
+                                         
+                  Kappa : 0.212          
+                                         
+ Mcnemar's Test P-Value : 0.1800         
+                                         
+            Sensitivity : 0.5918         
+            Specificity : 0.6250         
+         Pos Pred Value : 0.5179         
+         Neg Pred Value : 0.6923         
+             Prevalence : 0.4050         
+         Detection Rate : 0.2397         
+   Detection Prevalence : 0.4628         
+      Balanced Accuracy : 0.6084         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "Accuracy # 99 0.611570247933884"
+Confusion Matrix and Statistics
+
+   model_knn
+     0  1
+  0 64 44
+  1 48 86
+                                          
+               Accuracy : 0.6198          
+                 95% CI : (0.5554, 0.6813)
+    No Information Rate : 0.5372          
+    P-Value [Acc > NIR] : 0.005746        
+                                          
+                  Kappa : 0.2335          
+                                          
+ Mcnemar's Test P-Value : 0.754454        
+                                          
+            Sensitivity : 0.5714          
+            Specificity : 0.6615          
+         Pos Pred Value : 0.5926          
+         Neg Pred Value : 0.6418          
+             Prevalence : 0.4628          
+         Detection Rate : 0.2645          
+   Detection Prevalence : 0.4463          
+      Balanced Accuracy : 0.6165          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "Accuracy # 100 0.619834710743802"
+[1] "SD of accuracy 0.0288072842088092"
+[1] "Mean of accuracy 0.618553719008265"
