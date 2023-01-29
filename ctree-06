@@ -1,0 +1,502 @@
+   predictions_binary
+     0  1
+  0 36 22
+  1  8 55
+[1] "Accuracy # 1 0.752066115702479"
+   predictions_binary
+     0  1
+  0 39 13
+  1 16 53
+[1] "Accuracy # 2 0.760330578512397"
+   predictions_binary
+     0  1
+  0 38  8
+  1 22 53
+[1] "Accuracy # 3 0.752066115702479"
+   predictions_binary
+     0  1
+  0 41 16
+  1 11 53
+[1] "Accuracy # 4 0.776859504132231"
+   predictions_binary
+     0  1
+  0 35 17
+  1 11 58
+[1] "Accuracy # 5 0.768595041322314"
+   predictions_binary
+     0  1
+  0 42 10
+  1 23 46
+[1] "Accuracy # 6 0.727272727272727"
+   predictions_binary
+     0  1
+  0 36 19
+  1  6 60
+[1] "Accuracy # 7 0.793388429752066"
+   predictions_binary
+     0  1
+  0 27 33
+  1  2 59
+[1] "Accuracy # 8 0.710743801652893"
+   predictions_binary
+     0  1
+  0 47 10
+  1 22 42
+[1] "Accuracy # 9 0.735537190082645"
+   predictions_binary
+     0  1
+  0 42 14
+  1 22 43
+[1] "Accuracy # 10 0.702479338842975"
+   predictions_binary
+     0  1
+  0 34 16
+  1 10 61
+[1] "Accuracy # 11 0.785123966942149"
+   predictions_binary
+     0  1
+  0 36 19
+  1 16 50
+[1] "Accuracy # 12 0.710743801652893"
+   predictions_binary
+     0  1
+  0 32 29
+  1 10 50
+[1] "Accuracy # 13 0.677685950413223"
+   predictions_binary
+     0  1
+  0 34 23
+  1  8 56
+[1] "Accuracy # 14 0.743801652892562"
+   predictions_binary
+     0  1
+  0 33 25
+  1 10 53
+[1] "Accuracy # 15 0.710743801652893"
+   predictions_binary
+     0  1
+  0 36 19
+  1  6 60
+[1] "Accuracy # 16 0.793388429752066"
+   predictions_binary
+     0  1
+  0 34 15
+  1 17 55
+[1] "Accuracy # 17 0.735537190082645"
+   predictions_binary
+     0  1
+  0 39 15
+  1  6 61
+[1] "Accuracy # 18 0.826446280991736"
+   predictions_binary
+     0  1
+  0 39 21
+  1 11 50
+[1] "Accuracy # 19 0.735537190082645"
+   predictions_binary
+     0  1
+  0 45 12
+  1 22 42
+[1] "Accuracy # 20 0.71900826446281"
+   predictions_binary
+     0  1
+  0 31 21
+  1 12 57
+[1] "Accuracy # 21 0.727272727272727"
+   predictions_binary
+     0  1
+  0 51  8
+  1 32 30
+[1] "Accuracy # 22 0.669421487603306"
+   predictions_binary
+     0  1
+  0 38 18
+  1  9 56
+[1] "Accuracy # 23 0.776859504132231"
+   predictions_binary
+     0  1
+  0 38 21
+  1  5 57
+[1] "Accuracy # 24 0.785123966942149"
+   predictions_binary
+     0  1
+  0 41 11
+  1 10 59
+[1] "Accuracy # 25 0.826446280991736"
+   predictions_binary
+     0  1
+  0 44 17
+  1 12 48
+[1] "Accuracy # 26 0.760330578512397"
+   predictions_binary
+     0  1
+  0 44  8
+  1 25 44
+[1] "Accuracy # 27 0.727272727272727"
+   predictions_binary
+     0  1
+  0 43 11
+  1 17 50
+[1] "Accuracy # 28 0.768595041322314"
+   predictions_binary
+     0  1
+  0 35 16
+  1  7 63
+[1] "Accuracy # 29 0.809917355371901"
+   predictions_binary
+     0  1
+  0 49  7
+  1 30 35
+[1] "Accuracy # 30 0.694214876033058"
+   predictions_binary
+     0  1
+  0 47  8
+  1 17 49
+[1] "Accuracy # 31 0.793388429752066"
+   predictions_binary
+     0  1
+  0 33 16
+  1 17 55
+[1] "Accuracy # 32 0.727272727272727"
+   predictions_binary
+     0  1
+  0 40 19
+  1 12 50
+[1] "Accuracy # 33 0.743801652892562"
+   predictions_binary
+     0  1
+  0 31 26
+  1  2 62
+[1] "Accuracy # 34 0.768595041322314"
+   predictions_binary
+     0  1
+  0 38 19
+  1 26 38
+[1] "Accuracy # 35 0.628099173553719"
+   predictions_binary
+     0  1
+  0 40 12
+  1 24 45
+[1] "Accuracy # 36 0.702479338842975"
+   predictions_binary
+     0  1
+  0 45  6
+  1 39 31
+[1] "Accuracy # 37 0.628099173553719"
+   predictions_binary
+     0  1
+  0 35 16
+  1 10 60
+[1] "Accuracy # 38 0.785123966942149"
+   predictions_binary
+     0  1
+  0 35 19
+  1 13 54
+[1] "Accuracy # 39 0.735537190082645"
+   predictions_binary
+     0  1
+  0 43 14
+  1 17 47
+[1] "Accuracy # 40 0.743801652892562"
+   predictions_binary
+     0  1
+  0 42 13
+  1 21 45
+[1] "Accuracy # 41 0.71900826446281"
+   predictions_binary
+     0  1
+  0 38 21
+  1 15 47
+[1] "Accuracy # 42 0.702479338842975"
+   predictions_binary
+     0  1
+  0 43 13
+  1 11 54
+[1] "Accuracy # 43 0.801652892561983"
+   predictions_binary
+     0  1
+  0 42 11
+  1 16 52
+[1] "Accuracy # 44 0.776859504132231"
+   predictions_binary
+     0  1
+  0 42 19
+  1 10 50
+[1] "Accuracy # 45 0.760330578512397"
+   predictions_binary
+     0  1
+  0 46  9
+  1 18 48
+[1] "Accuracy # 46 0.776859504132231"
+   predictions_binary
+     0  1
+  0 32 23
+  1 13 53
+[1] "Accuracy # 47 0.702479338842975"
+   predictions_binary
+     0  1
+  0 35 15
+  1  9 62
+[1] "Accuracy # 48 0.801652892561983"
+   predictions_binary
+     0  1
+  0 38 20
+  1 14 49
+[1] "Accuracy # 49 0.71900826446281"
+   predictions_binary
+     0  1
+  0 41 12
+  1 19 49
+[1] "Accuracy # 50 0.743801652892562"
+   predictions_binary
+     0  1
+  0 31 20
+  1  9 61
+[1] "Accuracy # 51 0.760330578512397"
+   predictions_binary
+     0  1
+  0 40 10
+  1 23 48
+[1] "Accuracy # 52 0.727272727272727"
+   predictions_binary
+     0  1
+  0 33 11
+  1 17 60
+[1] "Accuracy # 53 0.768595041322314"
+   predictions_binary
+     0  1
+  0 43  9
+  1 28 41
+[1] "Accuracy # 54 0.694214876033058"
+   predictions_binary
+     0  1
+  0 46  5
+  1 31 39
+[1] "Accuracy # 55 0.702479338842975"
+   predictions_binary
+     0  1
+  0 44 15
+  1 17 45
+[1] "Accuracy # 56 0.735537190082645"
+   predictions_binary
+     0  1
+  0 45  8
+  1 27 41
+[1] "Accuracy # 57 0.710743801652893"
+   predictions_binary
+     0  1
+  0 35 14
+  1 26 46
+[1] "Accuracy # 58 0.669421487603306"
+   predictions_binary
+     0  1
+  0 45 14
+  1 15 47
+[1] "Accuracy # 59 0.760330578512397"
+   predictions_binary
+     0  1
+  0 32 16
+  1 10 63
+[1] "Accuracy # 60 0.785123966942149"
+   predictions_binary
+     0  1
+  0 30 18
+  1 18 55
+[1] "Accuracy # 61 0.702479338842975"
+   predictions_binary
+     0  1
+  0 44 12
+  1 18 47
+[1] "Accuracy # 62 0.752066115702479"
+   predictions_binary
+     0  1
+  0 37 14
+  1 24 46
+[1] "Accuracy # 63 0.68595041322314"
+   predictions_binary
+     0  1
+  0 38 15
+  1  7 61
+[1] "Accuracy # 64 0.818181818181818"
+   predictions_binary
+     0  1
+  0 39 18
+  1  7 57
+[1] "Accuracy # 65 0.793388429752066"
+   predictions_binary
+     0  1
+  0 36 21
+  1  6 58
+[1] "Accuracy # 66 0.776859504132231"
+   predictions_binary
+     0  1
+  0 33 18
+  1 18 52
+[1] "Accuracy # 67 0.702479338842975"
+   predictions_binary
+     0  1
+  0 40 15
+  1 15 51
+[1] "Accuracy # 68 0.752066115702479"
+   predictions_binary
+     0  1
+  0 29 26
+  1  5 61
+[1] "Accuracy # 69 0.743801652892562"
+   predictions_binary
+     0  1
+  0 32 24
+  1  8 57
+[1] "Accuracy # 70 0.735537190082645"
+   predictions_binary
+     0  1
+  0 48  8
+  1 18 47
+[1] "Accuracy # 71 0.785123966942149"
+   predictions_binary
+     0  1
+  0 29 20
+  1  5 67
+[1] "Accuracy # 72 0.793388429752066"
+   predictions_binary
+     0  1
+  0 38 20
+  1  6 57
+[1] "Accuracy # 73 0.785123966942149"
+   predictions_binary
+     0  1
+  0 28 29
+  1  8 56
+[1] "Accuracy # 74 0.694214876033058"
+   predictions_binary
+     0  1
+  0 31 20
+  1 20 50
+[1] "Accuracy # 75 0.669421487603306"
+   predictions_binary
+     0  1
+  0 44 10
+  1 25 42
+[1] "Accuracy # 76 0.710743801652893"
+   predictions_binary
+     0  1
+  0 40 25
+  1 11 45
+[1] "Accuracy # 77 0.702479338842975"
+   predictions_binary
+     0  1
+  0 40  9
+  1 12 60
+[1] "Accuracy # 78 0.826446280991736"
+   predictions_binary
+     0  1
+  0 41  9
+  1 20 51
+[1] "Accuracy # 79 0.760330578512397"
+   predictions_binary
+     0  1
+  0 26 29
+  1  5 61
+[1] "Accuracy # 80 0.71900826446281"
+   predictions_binary
+     0  1
+  0 46 12
+  1 17 46
+[1] "Accuracy # 81 0.760330578512397"
+   predictions_binary
+     0  1
+  0 24 29
+  1  2 66
+[1] "Accuracy # 82 0.743801652892562"
+   predictions_binary
+     0  1
+  0 35 14
+  1 23 49
+[1] "Accuracy # 83 0.694214876033058"
+   predictions_binary
+     0  1
+  0 33 22
+  1  6 60
+[1] "Accuracy # 84 0.768595041322314"
+   predictions_binary
+     0  1
+  0 37 24
+  1 14 46
+[1] "Accuracy # 85 0.68595041322314"
+   predictions_binary
+     0  1
+  0 34 23
+  1 10 54
+[1] "Accuracy # 86 0.727272727272727"
+   predictions_binary
+     0  1
+  0 40 21
+  1  7 53
+[1] "Accuracy # 87 0.768595041322314"
+   predictions_binary
+     0  1
+  0 39 13
+  1 20 49
+[1] "Accuracy # 88 0.727272727272727"
+   predictions_binary
+     0  1
+  0 41 16
+  1  6 58
+[1] "Accuracy # 89 0.818181818181818"
+   predictions_binary
+     0  1
+  0 47 12
+  1 14 48
+[1] "Accuracy # 90 0.785123966942149"
+   predictions_binary
+     0  1
+  0 37 15
+  1 15 54
+[1] "Accuracy # 91 0.752066115702479"
+   predictions_binary
+     0  1
+  0 40 20
+  1 13 48
+[1] "Accuracy # 92 0.727272727272727"
+   predictions_binary
+     0  1
+  0 31 20
+  1  9 61
+[1] "Accuracy # 93 0.760330578512397"
+   predictions_binary
+     0  1
+  0 31 17
+  1 10 63
+[1] "Accuracy # 94 0.776859504132231"
+   predictions_binary
+     0  1
+  0 42 15
+  1 20 44
+[1] "Accuracy # 95 0.710743801652893"
+   predictions_binary
+     0  1
+  0 41 16
+  1 11 53
+[1] "Accuracy # 96 0.776859504132231"
+   predictions_binary
+     0  1
+  0 30 23
+  1  7 61
+[1] "Accuracy # 97 0.752066115702479"
+   predictions_binary
+     0  1
+  0 36 15
+  1 13 57
+[1] "Accuracy # 98 0.768595041322314"
+   predictions_binary
+     0  1
+  0 36 16
+  1 20 49
+[1] "Accuracy # 99 0.702479338842975"
+   predictions_binary
+     0  1
+  0 47  8
+  1 23 43
+[1] "Accuracy # 100 0.743801652892562"
+[1] "SD of accuracy 0.0417620809911551"
+[1] "Mean of accuracy 0.74396694214876"
