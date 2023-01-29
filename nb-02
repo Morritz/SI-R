@@ -1,0 +1,502 @@
+           
+predictions   0   1
+      FALSE 109  60
+      TRUE    6  67
+[1] "Accuracy # 1 0.727272727272727"
+           
+predictions   0   1
+      FALSE  89  33
+      TRUE   19 101
+[1] "Accuracy # 2 0.785123966942149"
+           
+predictions   0   1
+      FALSE  75  13
+      TRUE   40 114
+[1] "Accuracy # 3 0.78099173553719"
+           
+predictions   0   1
+      FALSE  85  27
+      TRUE   27 103
+[1] "Accuracy # 4 0.776859504132231"
+           
+predictions   0   1
+      FALSE  93  30
+      TRUE   19 100
+[1] "Accuracy # 5 0.797520661157025"
+           
+predictions   0   1
+      FALSE  83  22
+      TRUE   22 115
+[1] "Accuracy # 6 0.818181818181818"
+           
+predictions   0   1
+      FALSE  83  16
+      TRUE   31 112
+[1] "Accuracy # 7 0.805785123966942"
+           
+predictions   0   1
+      FALSE  87  13
+      TRUE   32 110
+[1] "Accuracy # 8 0.81404958677686"
+           
+predictions   0   1
+      FALSE  66  12
+      TRUE   46 118
+[1] "Accuracy # 9 0.760330578512397"
+           
+predictions   0   1
+      FALSE  85  13
+      TRUE   30 114
+[1] "Accuracy # 10 0.822314049586777"
+           
+predictions   0   1
+      FALSE  77  14
+      TRUE   34 117
+[1] "Accuracy # 11 0.801652892561983"
+           
+predictions   0   1
+      FALSE  88  34
+      TRUE   19 101
+[1] "Accuracy # 12 0.78099173553719"
+           
+predictions  0  1
+      FALSE 88 41
+      TRUE  18 95
+[1] "Accuracy # 13 0.756198347107438"
+           
+predictions   0   1
+      FALSE  82  22
+      TRUE   30 108
+[1] "Accuracy # 14 0.785123966942149"
+           
+predictions   0   1
+      FALSE  80  20
+      TRUE   30 112
+[1] "Accuracy # 15 0.793388429752066"
+           
+predictions   0   1
+      FALSE  89  20
+      TRUE   24 109
+[1] "Accuracy # 16 0.818181818181818"
+           
+predictions   0   1
+      FALSE  85  25
+      TRUE   27 105
+[1] "Accuracy # 17 0.785123966942149"
+           
+predictions   0   1
+      FALSE  84  24
+      TRUE   27 107
+[1] "Accuracy # 18 0.789256198347107"
+           
+predictions  0  1
+      FALSE 84 36
+      TRUE  24 98
+[1] "Accuracy # 19 0.752066115702479"
+           
+predictions   0   1
+      FALSE  87  12
+      TRUE   28 115
+[1] "Accuracy # 20 0.834710743801653"
+           
+predictions   0   1
+      FALSE  84  20
+      TRUE   29 109
+[1] "Accuracy # 21 0.797520661157025"
+           
+predictions   0   1
+      FALSE  81  21
+      TRUE   21 119
+[1] "Accuracy # 22 0.826446280991736"
+           
+predictions   0   1
+      FALSE  89  29
+      TRUE   20 104
+[1] "Accuracy # 23 0.797520661157025"
+           
+predictions   0   1
+      FALSE  90  21
+      TRUE   18 113
+[1] "Accuracy # 24 0.838842975206612"
+           
+predictions   0   1
+      FALSE  74  16
+      TRUE   38 114
+[1] "Accuracy # 25 0.776859504132231"
+           
+predictions   0   1
+      FALSE  88  29
+      TRUE   24 101
+[1] "Accuracy # 26 0.78099173553719"
+           
+predictions   0   1
+      FALSE  78  12
+      TRUE   35 117
+[1] "Accuracy # 27 0.805785123966942"
+           
+predictions   0   1
+      FALSE  88  30
+      TRUE   21 103
+[1] "Accuracy # 28 0.789256198347107"
+           
+predictions  0  1
+      FALSE 90 35
+      TRUE  23 94
+[1] "Accuracy # 29 0.760330578512397"
+           
+predictions  0  1
+      FALSE 90 42
+      TRUE  16 94
+[1] "Accuracy # 30 0.760330578512397"
+           
+predictions   0   1
+      FALSE  88  21
+      TRUE   20 113
+[1] "Accuracy # 31 0.830578512396694"
+           
+predictions   0   1
+      FALSE  88  25
+      TRUE   26 103
+[1] "Accuracy # 32 0.789256198347107"
+           
+predictions  0  1
+      FALSE 95 36
+      TRUE  14 97
+[1] "Accuracy # 33 0.793388429752066"
+           
+predictions   0   1
+      FALSE  87  24
+      TRUE   22 109
+[1] "Accuracy # 34 0.809917355371901"
+           
+predictions   0   1
+      FALSE  85  24
+      TRUE   22 111
+[1] "Accuracy # 35 0.809917355371901"
+           
+predictions   0   1
+      FALSE  79  27
+      TRUE   31 105
+[1] "Accuracy # 36 0.760330578512397"
+           
+predictions   0   1
+      FALSE  87  26
+      TRUE   27 102
+[1] "Accuracy # 37 0.78099173553719"
+           
+predictions   0   1
+      FALSE  88  24
+      TRUE   21 109
+[1] "Accuracy # 38 0.81404958677686"
+           
+predictions   0   1
+      FALSE  80  28
+      TRUE   34 100
+[1] "Accuracy # 39 0.743801652892562"
+           
+predictions   0   1
+      FALSE  79  18
+      TRUE   30 115
+[1] "Accuracy # 40 0.801652892561983"
+           
+predictions   0   1
+      FALSE  84  31
+      TRUE   21 106
+[1] "Accuracy # 41 0.785123966942149"
+           
+predictions   0   1
+      FALSE  88  19
+      TRUE   22 113
+[1] "Accuracy # 42 0.830578512396694"
+           
+predictions   0   1
+      FALSE  83  19
+      TRUE   29 111
+[1] "Accuracy # 43 0.801652892561983"
+           
+predictions   0   1
+      FALSE  85  23
+      TRUE   27 107
+[1] "Accuracy # 44 0.793388429752066"
+           
+predictions   0   1
+      FALSE  84  33
+      TRUE   24 101
+[1] "Accuracy # 45 0.764462809917355"
+           
+predictions   0   1
+      FALSE  84  27
+      TRUE   28 103
+[1] "Accuracy # 46 0.772727272727273"
+           
+predictions   0   1
+      FALSE  87  16
+      TRUE   22 117
+[1] "Accuracy # 47 0.84297520661157"
+           
+predictions   0   1
+      FALSE  85  24
+      TRUE   26 107
+[1] "Accuracy # 48 0.793388429752066"
+           
+predictions   0   1
+      FALSE  83  17
+      TRUE   28 114
+[1] "Accuracy # 49 0.81404958677686"
+           
+predictions  0  1
+      FALSE 94 44
+      TRUE  10 94
+[1] "Accuracy # 50 0.776859504132231"
+           
+predictions   0   1
+      FALSE  83  24
+      TRUE   25 110
+[1] "Accuracy # 51 0.797520661157025"
+           
+predictions   0   1
+      FALSE  83  23
+      TRUE   30 106
+[1] "Accuracy # 52 0.78099173553719"
+           
+predictions   0   1
+      FALSE  86  24
+      TRUE   22 110
+[1] "Accuracy # 53 0.809917355371901"
+           
+predictions   0   1
+      FALSE  93  34
+      TRUE   14 101
+[1] "Accuracy # 54 0.801652892561983"
+           
+predictions   0   1
+      FALSE  72   9
+      TRUE   41 120
+[1] "Accuracy # 55 0.793388429752066"
+           
+predictions   0   1
+      FALSE  88  20
+      TRUE   21 113
+[1] "Accuracy # 56 0.830578512396694"
+           
+predictions   0   1
+      FALSE  91  18
+      TRUE   23 110
+[1] "Accuracy # 57 0.830578512396694"
+           
+predictions   0   1
+      FALSE  79  21
+      TRUE   33 109
+[1] "Accuracy # 58 0.776859504132231"
+           
+predictions   0   1
+      FALSE  78  13
+      TRUE   31 120
+[1] "Accuracy # 59 0.818181818181818"
+           
+predictions   0   1
+      FALSE  93  30
+      TRUE   16 103
+[1] "Accuracy # 60 0.809917355371901"
+           
+predictions  0  1
+      FALSE 93 32
+      TRUE  18 99
+[1] "Accuracy # 61 0.793388429752066"
+           
+predictions   0   1
+      FALSE  92  25
+      TRUE   24 101
+[1] "Accuracy # 62 0.797520661157025"
+           
+predictions   0   1
+      FALSE  86  19
+      TRUE   22 115
+[1] "Accuracy # 63 0.830578512396694"
+           
+predictions   0   1
+      FALSE  87  19
+      TRUE   28 108
+[1] "Accuracy # 64 0.805785123966942"
+           
+predictions   0   1
+      FALSE  80   9
+      TRUE   31 122
+[1] "Accuracy # 65 0.834710743801653"
+           
+predictions   0   1
+      FALSE  82  25
+      TRUE   31 104
+[1] "Accuracy # 66 0.768595041322314"
+           
+predictions   0   1
+      FALSE  70   7
+      TRUE   42 123
+[1] "Accuracy # 67 0.797520661157025"
+           
+predictions   0   1
+      FALSE  90  21
+      TRUE   21 110
+[1] "Accuracy # 68 0.826446280991736"
+           
+predictions   0   1
+      FALSE  86  30
+      TRUE   17 109
+[1] "Accuracy # 69 0.805785123966942"
+           
+predictions   0   1
+      FALSE  73  24
+      TRUE   29 116
+[1] "Accuracy # 70 0.78099173553719"
+           
+predictions   0   1
+      FALSE  73  19
+      TRUE   36 114
+[1] "Accuracy # 71 0.772727272727273"
+           
+predictions   0   1
+      FALSE  83  14
+      TRUE   30 115
+[1] "Accuracy # 72 0.818181818181818"
+           
+predictions   0   1
+      FALSE  83  16
+      TRUE   26 117
+[1] "Accuracy # 73 0.826446280991736"
+           
+predictions   0   1
+      FALSE  83  21
+      TRUE   29 109
+[1] "Accuracy # 74 0.793388429752066"
+           
+predictions   0   1
+      FALSE  79  21
+      TRUE   28 114
+[1] "Accuracy # 75 0.797520661157025"
+           
+predictions   0   1
+      FALSE  83  19
+      TRUE   30 110
+[1] "Accuracy # 76 0.797520661157025"
+           
+predictions  0  1
+      FALSE 82 36
+      TRUE  28 96
+[1] "Accuracy # 77 0.735537190082645"
+           
+predictions   0   1
+      FALSE  91  27
+      TRUE   24 100
+[1] "Accuracy # 78 0.789256198347107"
+           
+predictions   0   1
+      FALSE  83  22
+      TRUE   24 113
+[1] "Accuracy # 79 0.809917355371901"
+           
+predictions   0   1
+      FALSE  83  17
+      TRUE   34 108
+[1] "Accuracy # 80 0.789256198347107"
+           
+predictions   0   1
+      FALSE  79  45
+      TRUE   18 100
+[1] "Accuracy # 81 0.739669421487603"
+           
+predictions   0   1
+      FALSE  85  33
+      TRUE   18 106
+[1] "Accuracy # 82 0.789256198347107"
+           
+predictions   0   1
+      FALSE  89  20
+      TRUE   23 110
+[1] "Accuracy # 83 0.822314049586777"
+           
+predictions   0   1
+      FALSE  79  12
+      TRUE   30 121
+[1] "Accuracy # 84 0.826446280991736"
+           
+predictions   0   1
+      FALSE  79  11
+      TRUE   35 117
+[1] "Accuracy # 85 0.809917355371901"
+           
+predictions   0   1
+      FALSE  90  33
+      TRUE   19 100
+[1] "Accuracy # 86 0.785123966942149"
+           
+predictions   0   1
+      FALSE  70  19
+      TRUE   35 118
+[1] "Accuracy # 87 0.776859504132231"
+           
+predictions   0   1
+      FALSE  83  18
+      TRUE   28 113
+[1] "Accuracy # 88 0.809917355371901"
+           
+predictions   0   1
+      FALSE  79  30
+      TRUE   25 108
+[1] "Accuracy # 89 0.772727272727273"
+           
+predictions   0   1
+      FALSE  81  23
+      TRUE   25 113
+[1] "Accuracy # 90 0.801652892561983"
+           
+predictions   0   1
+      FALSE  82  27
+      TRUE   28 105
+[1] "Accuracy # 91 0.772727272727273"
+           
+predictions   0   1
+      FALSE  85  22
+      TRUE   25 110
+[1] "Accuracy # 92 0.805785123966942"
+           
+predictions   0   1
+      FALSE  75   9
+      TRUE   38 120
+[1] "Accuracy # 93 0.805785123966942"
+           
+predictions   0   1
+      FALSE  81  17
+      TRUE   32 112
+[1] "Accuracy # 94 0.797520661157025"
+           
+predictions   0   1
+      FALSE  95  27
+      TRUE   14 106
+[1] "Accuracy # 95 0.830578512396694"
+           
+predictions   0   1
+      FALSE  75  20
+      TRUE   31 116
+[1] "Accuracy # 96 0.789256198347107"
+           
+predictions  0  1
+      FALSE 89 38
+      TRUE  17 98
+[1] "Accuracy # 97 0.772727272727273"
+           
+predictions   0   1
+      FALSE  50  22
+      TRUE   58 112
+[1] "Accuracy # 98 0.669421487603306"
+           
+predictions   0   1
+      FALSE  83  25
+      TRUE   23 111
+[1] "Accuracy # 99 0.801652892561983"
+           
+predictions   0   1
+      FALSE  88  25
+      TRUE   22 107
+[1] "Accuracy # 100 0.805785123966942"
+[1] "SD of accuracy 0.0269139033135951"
+[1] "Mean of accuracy 0.794338842975207"
